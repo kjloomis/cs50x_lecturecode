@@ -13,7 +13,7 @@
  *
  * What problems may still occur with this solution?
  *
- * @author Ken Loomis
+ * @author Ken Loomis (https://github.com/kjloomis/cs50x_lecturecode)
  */
 int main ( void )
 {

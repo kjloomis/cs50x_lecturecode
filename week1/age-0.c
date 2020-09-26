@@ -11,7 +11,7 @@
  * What is the disadvantage of using such a such
  * a design?
  *
- * @author Ken Loomis
+ * @author Ken Loomis (https://github.com/kjloomis/cs50x_lecturecode)
  */
 int main ( void )
 {

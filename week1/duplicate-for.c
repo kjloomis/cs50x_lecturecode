@@ -10,7 +10,7 @@
  * Why is a count-controlled (for) loop appropriate for
  * this solution?
  *
- * @author Ken Loomis
+ * @author Ken Loomis (https://github.com/kjloomis/cs50x_lecturecode)
  */
 int main ( void )
 {

@@ -9,7 +9,7 @@
  * statement to perform the task.
  *
  *
- * @author Ken Loomis
+ * @author Ken Loomis (https://github.com/kjloomis/cs50x_lecturecode)
  */
 int main ( void )
 {
